@@ -1,0 +1,611 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The righteous mans hope in his death: in a sermon at the funerall of Mr William Conye of Walpoole, justice of peace, and captain over the trained band in Marshland. / Preached by John Horne Minister of the Gospel of Jesus Christ at Southlyn in Norfolke 2d⁰ May 1648.</title>
+            <author>Horn, John, 1614-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86563</idno>
+            <idno type="STC">Wing H2808</idno>
+            <idno type="STC">Thomason E562_3</idno>
+            <idno type="STC">ESTC R206072</idno>
+            <idno type="EEBO-CITATION">99865260</idno>
+            <idno type="PROQUEST">99865260</idno>
+            <idno type="VID">117499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The righteous mans hope in his death: in a sermon at the funerall of Mr William Conye of Walpoole, justice of peace, and captain over the trained band in Marshland. / Preached by John Horne Minister of the Gospel of Jesus Christ at Southlyn in Norfolke 2d⁰ May 1648.</title>
+                  <author>Horn, John, 1614-1676.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Underhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117499:1" rendition="simple:additions"/>
+            <p>THE RIGHTEOVS MANS HOPE IN HIS DEATH: IN A SERMON AT THE Funerall of M<hi rend="sup">r</hi> WILLIAM CONYE of <hi>Walpoole,</hi> Juſtice of Peace, and Captain over the Trained Band in <hi>Marſhland.</hi>
+            </p>
+            <p>PREACHED By JOHN HORNE Miniſter of the Goſpel of Jeſus Chriſt at <hi>Soushlyn</hi> in <hi>Norfolke</hi> 2<hi rend="sup">do</hi> 
+               <hi>May</hi> 1648.</p>
+            <q>
+               <bibl>2 SAMUEL 14.14.</bibl>
+               <p>
+                  <hi>For we muſt needs die, and are as water ſpilt on the ground which can<g ref="char:EOLhyphen"/>not be gathered up again: neither doth God reſpect any perſon, yet doth he deviſe means that his baniſhed be not expelled from him.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>ISAIAH 57.1, 2.</bibl>
+               <l>
+                  <hi>The righteous is taken away from the evil to come.</hi>
+               </l>
+               <l>
+                  <hi>He ſhall enter into peace: they ſhall reſt in their beds, each one walking in his uprightneſſe.</hi>
+               </l>
+            </q>
+            <q>Cum conſtet dereſurrectione mortuorum, vacat dolor mortis, vacat &amp; impatientia doloris.
+<bibl>
+                  <hi>Tertul. de Patientia.</hi>
+               </bibl>
+            </q>
+            <q>Quinto major fides, tanto morseſt imbecillior.
+<bibl>
+                  <hi>Luth.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill.</hi> 1649.</p>
+         </div>
+         <div type="encomia">
+            <pb facs="tcp:117499:2"/>
+            <pb facs="tcp:117499:2"/>
+            <head>To the Author of the Sermon.</head>
+            <lg>
+               <l>IN Achor's vale, Thou op'ſt a Door of Hope,</l>
+               <l>The Heart enlarg'd may well behold Thy ſcope.</l>
+               <l>The ſtrong Devourer is (by Thee) made ſweet,</l>
+               <l>We ſee the Eater is become mans meat.</l>
+               <l>The Faithfull die; their fear of death is paſt,</l>
+               <l>In hope they live: Theſe dead thou lead'ſt to reſt.</l>
+               <closer>
+                  <signed>J.A.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On the death of</hi> William Conye <hi>
+                     <abbr>Eſq</abbr> Justice of the Peace, and Captain at Wars.</hi> Who being dead yet ſpeaketh, <hi>Heb.</hi> 11.4.</head>
+               <l>OH living man! would'ſt by death gain?</l>
+               <l>Learn Chriſt, who did thy death ſuſtain.</l>
+               <l>That ſo when Death Thy Life ſhall end,</l>
+               <l>Thou maiſt in Life, with Chriſt, Aſcend.</l>
+               <l>Thy loſſe of friends becomes thy gain,</l>
+               <l>When God thy friend thou do'ſt obtain.</l>
+               <l>Then Pattern-like, Be taught of me,</l>
+               <l>Let Chriſt thy life, yet living, be.</l>
+               <l>By ſin came death: yet liveth he,</l>
+               <l>Who conquer'd death to ſuccour thee.</l>
+               <closer>
+                  <signed>J.A.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <head>Or Thus.</head>
+               <l>The Buſh on fire, is ſtill preſerv'd,</l>
+               <l>Mans life in death, is yet conſerv'd.</l>
+               <l>The Angels food, Mans bread Chriſt is;</l>
+               <l>This Captain ſlew our death by his.</l>
+               <l>His bonds, makes free: his death brings life;</l>
+               <l>Our ſhame through Chriſt, works glory rife.</l>
+               <l>Chriſt's Grace gains Faith: Man hopes glory;</l>
+               <l>Sure's Gods word, myſt'ry and ſtlory.</l>
+               <l>Vain man I Why feareſt death in vain?</l>
+               <l>Chriſt is riſen: Beleeve and reign.</l>
+               <closer>
+                  <signed>J.A.</signed>
+               </closer>
+            </lg>
+         </div>
+         <div type="contents">
+            <pb facs="tcp:117499:3"/>
+            <head>The CONTENTS.</head>
+            <list>
+               <item>Doctrines,
+<list>
+                     <item>1. <hi>That Righteous men die.</hi>
+                        <list>
+                           <item>1. The leve<g ref="char:EOLhyphen"/>rall kindes of death.
+<list>
+                                 <item>1. Eternall; which is a periſhing from the preſence of the Lord, The ſecond death.</item>
+                                 <item>2. Spirituall;
+<list>
+                                       <item>Dead in ſins, ſtrangers from the life of God, Taken in an ill ſeaſe.</item>
+                                       <item>Dead to the Law, to a mans ſelf. Thus taken in a good ſenſe.</item>
+                                    </list>
+                                 </item>
+                                 <item>3. Temporall ſee ſin,
+<list>
+                                       <item>Inchoate: In deaths often, The ſhadow of death.</item>
+                                       <item>Cenſummate: An utter ſepatation of the ſoul from the body.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>2. The rea<g ref="char:EOLhyphen"/>ſons of the Righteous mans dying
+<list>
+                                 <item>1 From the frail and mortall nature about them.</item>
+                                 <item>2 From Satan and this world, haters of them.</item>
+                                 <item>3. From ſin, that cleaves ſo fall to them.</item>
+                                 <item>4. From the Ordinance of God upon them, <hi>That all men muſt die.</hi>
+                                 </item>
+                                 <item>5. For right ends to them.
+<list>
+                                       <item>1. To humble the righteous by death,</item>
+                                       <item>2. To make them ſeek ſalvation out of death through Chriſt.</item>
+                                       <item>3. That the glory of Chriſt in raiſing them out of death, may appear.</item>
+                                       <item>4. That death may put an end to all their evils.</item>
+                                       <item>5. That dying, the righteous may enter into life and glory.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>2. <hi>That the Righteous hath hope in his death.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>And therein conſider,
+<list>
+                     <item>1. The difference of the Righteous mans hope, from other mens, hopeleſſe of life; or ſenſeleſſe of death.</item>
+                     <item>2. Who is the Righteous man.</item>
+                     <item>3. Divers ſorts of Righteouſneſſe
+<list>
+                           <item>1. Of a mans own, and of works,
+<list>
+                                 <item>Morall.</item>
+                                 <item>Legall.</item>
+                              </list>
+                           </item>
+                           <item>2. Of God: Of ſaith.</item>
+                        </list>
+                     </item>
+                     <item>4. Gods goodneſſe done for man, and his truth ſaid to man cals for mans truſt and hope towards God.</item>
+                     <item>5. What is this hope of a Righ<g ref="char:EOLhyphen"/>teous man,
+<list>
+                           <item>1. The ſeverall objects of his hope,
+<list>
+                                 <item>Chriſt,</item>
+                                 <item>And other things through Chriſt.</item>
+                              </list>
+                           </item>
+                           <item>2. The grounds of his hope,
+<list>
+                                 <item>1. Chriſts ſufferings for man, the ground of mans righ<g ref="char:EOLhyphen"/>teouſneſſe with God.</item>
+                                 <item>2. Chriſts reſurrection out of death, the ground of mans hope of life.</item>
+                              </list>
+                           </item>
+                           <item>3. The efficacy of his hope, the Righteous mans hope dies not: It lives in his death,</item>
+                        </list>
+                     </item>
+                     <item>6. The bleſſed memory of this deceaſed Righteous man, and of his hope in his death.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Application,</hi>
+                  <list>
+                     <item>1. The Righteouſneſſe of God is to be taken notice of, and not to be ſlighted.</item>
+                     <item>2. All men ought to fellow this righteouſneſſe of God, and not faint for ſufferings.</item>
+                     <item>3. Theſe followers are to go on in the way of righteouſneſſe. The righteous, not to die in their affections for death it ſelf, but to have hope in their death.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:117499:3"/>
+            <head>THE RIGHTEOVS MANS HOPE IN HIS DEATH.</head>
+            <head type="sub">The Text.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. 14.32.</hi>
+                  </bibl> The Righteous hath hope in his death.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">N</seg>Ot to ſpend time in unneceſſary prefacing, becauſe we ſhall finde matter enough in the words to take up all this little time allotted us: There are two Propoſitions couched in the Text, to which I ſhall deſire as briefly, and yet as clearly as I may to ſpeak, <hi>viz.</hi>
+               <list>
+                  <item>1. <hi>That even Righteous men alſo are liable to death.</hi>
+                  </item>
+                  <item>2. <hi>That the Righteous have hope in their death.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The truth of the former of theſe is not only a matter of faith, but is evident to ſenſe alſo, as the Scriptures tell us,
+<note place="margin">Heb 9.17.</note> 
+               <hi>It's appointed to man once to die:</hi> So we ſee the <hi>wiſe</hi> and the <hi>fooliſh,</hi> the <hi>righteous</hi> and the <hi>wicked,</hi> both are ſubject thereto, and in that regard all things come alike to all. The moſt famous for righteouſneſſe have yielded unto death. <hi>Abraham is <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd, and the Prophets are dead,</hi> yea Chriſt himſelf yielded up the Ghoſt and died; ſo that we ſhall not ſpend time about the proof of that point, only I ſhall deſire to unfold the ſeverall acceptions of the word <hi>death,</hi> and ſee in which of them this is found true, that the righteous comes unto death, and ſo ſee the latitude in which this Text may be taken, and then ſhew whence and upon what grounds it comes to paſſe that the righteous alſo die, and ſo proceed to the next particular.</p>
+            <pb n="2" facs="tcp:117499:4"/>
+            <p>The word <hi>death</hi> is diverſly uſed in Scripture: As</p>
+            <p>We reade of a <hi>ſecond death,
+<note place="margin">Rev. 20 6. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Theſ 17.8, 9 M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. 25 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> a periſhing from the preſence of the Lord and the glory of his power,</hi> a being thrown into <hi>everlasting fire prepared for the devil and his Angels:</hi> But of this death the text is not to be underſtood; for this is none of the righteous mans death, it's not appointed for him, nor he for it, nor ſhall he come into it, nor is it a death in which any hope may be had; this is indeed the righteous mans hope, that he ſhall not ſee this death, but be preſerved and kept from it, as it is ſaid, <hi>Bleſſed and holy is he that hath part in the firſt reſurrecti<g ref="char:EOLhyphen"/>on, for on ſuch the ſecond death ſhall have no power, Rev.</hi> 20.6. And of this, that ſaying of our Saviour is to be underſtood, that <hi>he that beleeves in him ſhall not taſte death,</hi> Joh 8<g ref="char:punc">▪</g> 52.</p>
+            <p n="2">2. Death is ſometimes taken for a more ſpirituall death, or a death in the ſpirit of a man only, not in the body, as when men are ſaid, <hi>while alive,
+<note place="margin">Eph. 4.18. and 2.1.</note> to be dead,</hi> in an evill ſenſe, <hi>void of the life of God, dead in ſins and treſpaſſes,</hi> but of this, this place cannot be underſtood neither, they that are ſo dead are not righteous men, but as yet unrighteous and ungodly: But</p>
+            <p n="3">3. Death is ſometime taken in a good ſenſe, for a ſpirituall death, not in ſin, but to a mans ſelf and ſin, as when the Apoſtle ſaies, <hi>Gal.</hi> 2.20. <hi>I am crucified with Chriſt, yet I live,</hi> &amp;c. <hi>Rom.</hi> 6.4. <hi>We are planted with him into the ſimilitude of his death.</hi> And 7.9. <hi>When the law came, ſin revived and I died:</hi> That is, When a man formerly alive to his wiſdome, parts, priviledges, righteouſneſſe after the Law, <hi>&amp;c.</hi> comes to be taken off from all life in them, confidence ſpringing from them, expectation of favour from God becauſe of them, findes no ſupport, comfort or encouragement from them, ſees them all to be nothing in the account of God, and ſo looſes and departs with them all in that regard to enjoy the full grace of God in Chriſt. Unrighteous men oft times finde life in their own hands, power and works, endeavours, parts, <hi>&amp;c.</hi> but the man that doth righteouſneſſe dies to all, that he may live to God, and Chriſt may be his life: And ſo he dies alſo to the world, riches, glo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pleaſures, treaſures of it, and whatſoever is therein, ſo as not to love, cleave to, and have his life therein, or ſuck his ſoul ſweetneſſe and ſatisfaction there-from: <hi>It is crucified to him and he to it,</hi> as <hi>Gal.</hi> 6.14. He is condemned and caſt out by it, and he again condemns and reproves it, and findes no goodneſſe or life in the cuſtoms, approbation or excellencies of it, So <hi>Paul</hi> ſaies of himſelf, <hi>he died daily,</hi> 1 Cor. 15. and ſaies to the <hi>Coloſſians,</hi> chap. 3.3. <hi>Ye are dead, and your life is hid with Chriſt in
+<pb n="3" facs="tcp:117499:4"/>God.</hi> And this death in theſe ſeverall particulars the righteous man dieth to, and in theſe dyings alſo he hath hope; ſo that this accepta<g ref="char:EOLhyphen"/>tion of the word death, we may underſtand to he included in this ex<g ref="char:EOLhyphen"/>preſſion in the Text.</p>
+            <p n="4">4. The word <hi>death</hi> ſignifies alſo dangers of death to the body, hea<g ref="char:EOLhyphen"/>vy afflictions and diſtreſſes, ſuch as bring into eminent dangers of the diſſolution of the body and ſoul each from other, as when <hi>Paul</hi> ſaid, that <hi>God delivered him from ſo great a death,</hi> 2 Cor. 8.9. and that he <hi>was in deaths often,</hi> 2 Cor. 11.23.</p>
+            <p>Fifthly and laſtly, It is uſed moſt ordinarily to ſignifie the death of the body, the ſeparation made between it and the ſoul, the laying down of this earthly tabernacle, ſo Chriſt was put to death in the fleſh, and <hi>Abraham</hi> and the Prophets died, <hi>&amp;c.</hi> And in this and the next foregoing ſenſe joined with it, ſhall I here eſpecially eye and ſpeak to it, It being a clear truth, that the righteous come into many tribulations and deaths or dangers, and at laſt alſo lay down their earthly tabernacles, and die in the fleſh, 2 <hi>Cor.</hi> 5.1. and 4.12. Let us now view ſome reaſon of this, why they are ſubjected to, or how they come to yeeld up to ſuch deaths.</p>
+            <p>The queſtion is,
+<note place="margin">Quest.</note> Why and whence it is that the righteous come into dangers and into death?</p>
+            <p>The anſwer is,
+<note place="margin">Anſw.</note> That though they are in their conditions and ſpirits above death, yet their bodies are ſubject thereto, from ſundry cauſes; as, If we look upon ſecundary cauſes, It is becauſe,</p>
+            <p n="1">1. They have the ſame frail natures and infirm conſtitutions as o<g ref="char:EOLhyphen"/>ther men have, they have and carry about them the ſeeds and princi<g ref="char:EOLhyphen"/>ples of mortality, righteouſneſſe leads to peace in them, and to hopes under them, but doth not keep death from them: Yea</p>
+            <p n="2">2. They have more cauſe then other men, inaſmuch as they have more enemies, Satan ſtirring up inſtruments againſt them, yea and (if God permit) working upon the principles of mortality in them more forceably and violently (as in <hi>Job</hi>) if by any means he might deſtroy them, he ſtirs up the world to hate, reproach and perſecute them, ſo that conſidering the worlds hating of them and plots againſt them, it's a greater wonder and more to be admired that they die no ſoon<g ref="char:EOLhyphen"/>er, then that they die at all, that they meet not with many more deaths, then that they meet with ſo many.</p>
+            <p>If we look upon the firſt and higher cauſes, then we finde,</p>
+            <p n="1">1. Sinne in them as well as in others, and that expoſeth to death; the body being corrupted with ſin, muſt die that it may be made new
+<pb n="4" facs="tcp:117499:5"/>and incorrupt, and that ſprings from an higher cauſe yet.</p>
+            <p n="2">2. The appointment of God, It's an ordinance of his making that mankinde ſhould be ſubject to death, <hi>It's appointed to men once to die, Heb.</hi> 9.27. And this ordinance includes and reaches to beleevers as well as others, they being men alſo, and God would have it ſo for divers good ends and purpoſes, as to inſtance</p>
+            <p n="1">1. That they might have ſomething to humble them and keep them low in themſelves, while they are minded of their ſin and ſinfulneſſe that let in death, and experiment themſelves in mortality, frailty and weakneſſe like other men, and ſo are led alſo to ſee that they as well as any other have daily need of help from above, that they need a Saviour out of death.</p>
+            <p n="2">2. That they ſeeing their own nothingneſſe and need of a Saviour might be more earneſtly ſtirred up to accept thankfully, and diligent<g ref="char:EOLhyphen"/>ly ſeek after and have recourſe unto, and exerciſe faith in the Saviour that God hath freely given to remedy and help them:
+<note place="margin">Deut. 32.29. Pſal. 9<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11.</note> for the <hi>con<g ref="char:EOLhyphen"/>ſideration of their later end,</hi> and the <hi>right numbering of their daies;</hi> is a means to make them <hi>apply their hearts more heedfully to wiſdom,</hi> in minding the grace of God and comforting themſelves therein againſt their ſtraits and ſufferings, and breathing after the experiments of the power of God in ſupporting and bearing them up in deaths, and in due ſeaſon delivering them out of them: Were we not ſubjected to death and miſery in ourſelves, we ſhould never ſo much prize and look out after ſalvation and help given us in another.</p>
+            <p n="3">3. That God in Chriſt might be the more abundantly glorified in ſupporting and carrying them through deaths and ſufferings, and raiſing them out of them, for his <hi>ſtrength is perfected in weakneſſe, and his power in infirmities;</hi>
+               <note place="margin">2 Cor. 12.</note> as thereby it is moſt eminently put forth: ſo therethrough alſo it's moſt fully and clearly ſeen and known, and being ſeen is moſt acknowledged, as Chriſt ſaid of <hi>Lazarus</hi> his death, <hi>Joh.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. ſo we may ſay of the death of all his people, it is that the ſon of man might be glorified, for it's greater glory to uphold in deaths, and raiſe dry bones out of death, then to preſerve from it: As the reſurrection of the dead when mens bodies are waſted, conſumed, and the reliques thereof ſcattered and diſperſed, doth more appoſe rea<g ref="char:EOLhyphen"/>ſon, and ſeems more abſurd to mans conception then other things, ſo will it be a brighter demonſtration of the wiſdom and power of God, and that in which he ſhall be more admired then in other things. <hi>When I have opened your graves and brought you out from them, and put the ſpirit of life into you</hi> (that looked upon your ſelves as dry
+<pb n="5" facs="tcp:117499:5"/>ones, paſt all hope of life, ſaith God to the houſe of <hi>Iſrael, Ezek.</hi> 7.11, 12, <hi>then ſhall you know that I am the Lord,</hi> then emphatical<g ref="char:EOLhyphen"/>ly, then more fully and clearly, ſo as to acknowledge and to ad<g ref="char:EOLhyphen"/>mire it and give glory to me, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. That they might not be alwaies under evill, he orders this for their good, as well as for his own glory; for his glory in their good and great mercy and goodneſſe it is to them to be taken a<g ref="char:EOLhyphen"/>way from the face of evill, as the phraſe is in <hi>Iſa.</hi> 57.1, 2.
+<note place="margin">
+                  <hi>Mipna barag<g ref="char:EOLhyphen"/>na<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 2 Pet. 2.7.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>a facie mali:</hi> here they live amongſt an evill generation of wicked men that vex and diſquiet their <hi>righteous ſouls,</hi> as the <hi>Sodomites</hi> did righteous <hi>Lot,</hi> men that oppoſe and blaſpheme God in his way, truth, ſpirit, <hi>&amp;c.</hi> and daily plot and conſpire the ruine of the juſt, and theſe evill men make the times evill and dangerous, partly by corrupting the truth of God, and bringing in dangerous errours, and partly by their oppreſſions, cruelties, malice, fraud, and other enormities which provoke God to ſend plagues, peſtilences, famine and ſword, and ſuch like ſore judgements: for ſuch things the godly mourn and ſigh, and their lives are full of bitterneſſe: now though God ſee it good to try and exerciſe his people with theſe things as in a furnace, yet theſe are not his peoples portion, out of very love and faithfullneſſe therefore he will take them from the face of theſe evils, either before judgements come, that they may not ſee and be perplexed with them, as he intimates unto <hi>Hezekiah,</hi>
+               <note place="margin">2 King. 2.28 2</note> when he threat<g ref="char:EOLhyphen"/>ned ſore judgements upon the people, he would firſt take him away, and he <hi>ſhould have peace in his daies:</hi> or elſe out of them that they be not overburthened with them; here they are toſſed too and fro with troubles, hated, reproached, perſecuted, wearied out almoſt with labours and ſorrows in and for the Goſpel and name of Chriſt, and for their juſt converſations with men, and therefore God out of compaſſion will take them away by death in due ſeaſon, and give them reſt, as it follows, <hi>they ſhall enter into peace,
+<note place="margin">Iſa. 57.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> they ſhall rest in their beds, each one walking in his uprightneſſe.</hi> Should any man be here alwaies continued his life, would be a very unſupportable bur<g ref="char:EOLhyphen"/>then to him, how much more the righteous who have uſually a dee<g ref="char:EOLhyphen"/>per ſhare in troubles here then other men?</p>
+            <p n="5">5. He orders death to them, that putting off this earthly maſhy tabernacle, they might be brought to a more full enjoyment of Jeſus Chriſt, and ſo of himſelf in him: here their enjoyments of God are lower and more intermixt, they are letted by this bodily groſſeneſſe from ſeeing or receiving ſo much of him as their ſpirits in more ſpi<g ref="char:EOLhyphen"/>rituall
+<pb n="6" facs="tcp:117499:6"/>bodies are capable of, <hi>no man can ſee God and live,</hi> and yet the happineſſe of the ſoul ſtands in the ſight and fruition of God, which that they might have more fully, he takes them out of theſe bodies to his Son,
+<note place="margin">2 Cor. 5.6.</note> 
+               <hi>while we ſojourn in the body, we are abſent from the Lord,</hi> we are here as ſtrangers in a forraign countrey, where we have <hi>no city to continue in:</hi>
+               <note place="margin">Heb. 13.14. 2 Cor. 5.8.</note> but when we are taken out of the body, <hi>we ſhall be at home,</hi> we ſhall be nearer to Chriſt, and have a greater enjoyment of him, whence death is great advantage, to the righteous, and <hi>Paul</hi> deſired it rather then life, <hi>I deſire</hi> (ſaith he) <hi>to be diſſolved and to be with Chriſt,
+<note place="margin">Phil. 1.21, 23.</note> for that is far better for me,</hi> &amp;c. For theſe and ſuch like good and gracious ends, God hath or<g ref="char:EOLhyphen"/>dered death to the righteous, which I have but briefly ſpoken to, deſiring to paſſe to the main thing in the text, the ſecond thing ob<g ref="char:EOLhyphen"/>ſerved, which is indeed the full expreſſion of the text it ſelf, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That the righteous hath hope in his death.</hi>
+               <note place="margin">
+                  <hi>Propoſ.</hi> 2.</note>
+            </p>
+            <p>That is, he ſinks not under it, but lives in death, his ſpirit lives when his body dies, he is ſaved from the terrour of death, by the hope he hath of a better life, and ſo not only ſees not the ſecond death, or comes not into it, but miſſeth alſo the ſting and bitterneſs that many through ignorance and unbelief meet with in the firſt death: he feels a ſpirituall life in the midſt of a ſpirituall, and in the midſt of a corporall death too. When his ſpirit dies to himſelf and to the world, ſo that it findes nothing in the one, nor in the o<g ref="char:EOLhyphen"/>ther to ſupport, comfort or chear him, but ſees all in himſelf pol<g ref="char:EOLhyphen"/>luted and ſinfull, his very works of righteouſneſſe too ſhort, and ſcanty to cover him from wrath and vengeance, and all in the world vain, yea vanity it ſelf, and full of bitterneſſe and vexation, in both nothing but death, yet even then in Chriſt he findes ſweetneſſe, life, and ſatisfaction, he findes him living bread, and feeds upon him as the moſt ample glorious witneſſe and manifeſtation of Gods love, and in feeding there he lives. <hi>I am crucified with Chriſt,</hi> ſaith the Apoſtle, that is, to himſelf and to his own beſt endeavours though af<g ref="char:EOLhyphen"/>ter Law, and to the world with all its excellencies, and yet ſaith he, <hi>I live,</hi> and yet that was paſſively he, not actively, <hi>but Chriſt lives in me, and the life that I live in the fleſh, is by the ſaith of the Son of God,</hi> &amp;c. As for other men, take away their comforts in the world, and confidence they have in themſelves, and you undoe them, they die, deſpair and periſh, but <hi>the juſt ſhall live by faith,</hi> and ſo it is with him in the midſt of dangers and of bodily death, he hath ſuch a hope as ſaves, ſupports him, and bears him up in the worſt times and con<g ref="char:EOLhyphen"/>ditions,
+<pb n="7" facs="tcp:117499:6"/>he hath hope in death, and in that he hath hope he differs from two ſorts of people (as in the nature and quality of his hope he differs from others) from theſe two.</p>
+            <p n="1">1. From thoſe that are <hi>driven away in their wickedneſſe with wrath,</hi>
+               <note place="margin">Pro. 14.3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> as in the former part of the verſe, ſuch as the guilt of ſin in their con<g ref="char:EOLhyphen"/>ſciences, and ſence of vengeance hurries away to deſperation, and makes them like the <hi>chaff driven away with the winde,</hi>
+               <note place="margin">Pſal. 1.4.</note> ſo that they cannot ſtand in death, when they apprehend Gods hand lifted up againſt them, but ſink down into hell, unbelief and terrour.</p>
+            <p n="2">2. From thoſe that though they are not ſo hurried away in a tem<g ref="char:EOLhyphen"/>peſt as being paſt hope, yet when they die, they are like ſtones, as was <hi>Nabal,</hi> or as it's to be ferred ſome do that the people uſe to ſay die like lambs, they die without any hope, like ſenſeleſſe and rea<g ref="char:EOLhyphen"/>ſonleſſe creatures, that know little more then the beaſts, and ſo have ſcarce any more either hope or fear in what happens to them, but as they fear not hell or vengeance, ſo they hope not in God, for hea<g ref="char:EOLhyphen"/>ven or bleſſedneſſe: perhaps they ſay they hope well, becauſe they are ſenſeleſſe of any thing they ſhould fear, and ſo hope (they ſay) they ſhall meet with no evill, being ſenſuall like bruit beaſts, they ſee none to be feared or avoided by them: from both theſe the righ<g ref="char:EOLhyphen"/>teous differ in their death, they have hope in it. But that we might the better underſtand and make uſe of what the holy Ghoſt here propounds to us, I ſhall proceed in this order to ſpeak to it; I ſhall
+<list>
+                  <item>1. Explain the terms.</item>
+                  <item>2. Confirm the truth of the Propoſition, and</item>
+                  <item>3. Apply it.</item>
+                  <item>1. In the explication, two things would be ſpoken to, <hi>viz.</hi>
+                  </item>
+                  <item>1. What or who is this righteous man, and</item>
+                  <item>2. What is the hope he hath in his death.</item>
+                  <item>1. Who is the righteous man here ſpoken of,
+<note place="margin">Queſt.</note> and what is that which will put a man into the righteous eſtate here mentioned that is accompanied with hope in death.</item>
+               </list>
+            </p>
+            <p>A man is denominated righteous from righteouſneſſe,
+<note place="margin">Anſw.</note> of which the Scripture mentions divers kindes, as</p>
+            <p n="1">1. A morall righteouſneſſe which ſtands in a juſt dealing between man and man, ſo <hi>Abimelech</hi> asks <hi>if God will destroy a righteous nation,</hi> Gen. 20.4. he meant a people that had done no wrong to <hi>Abraham</hi> wittingly, but as God after anſwers him, <hi>verſ.</hi> 6. <hi>walked in that mat<g ref="char:EOLhyphen"/>ter in integrity,</hi> doing but what in conſcience they thought might be done, <hi>&amp;c.</hi> and ſo <hi>David</hi> appeals to God to judge him <hi>according to
+<pb n="8" facs="tcp:117499:7"/>his righteouſneſſe,</hi> that is his blameleſſe carriage towards <hi>Saul,</hi> Pſal. 7.8. and ſo many Gentiles have been righteous, that is, juſt in their carriages towards men, in what they judged to be their duty, but this is not the righteouſneſſe, nor theſe the righteous men here ſpo<g ref="char:EOLhyphen"/>ken of, becauſe this may be conſiſtent with ignorance and enmity againſt God, it being but a meer humane righteouſneſſe.</p>
+            <p n="2">2. A legall righteouſneſſe or a righteouſneſſe according to the law of God, and that the Scripture mentions two waies, <hi>viz.</hi> 1. Ei<g ref="char:EOLhyphen"/>ther that that is ſo indeed, which ſtands in a full and perfect perſo<g ref="char:EOLhyphen"/>nall conformity to the law at all times, and in all things never, no, not ſo much as in luſt tranſgreſſing it, for ſuch righteouſneſſe the law requires, in that it <hi>curſeth every man that continueth not in all things that are contained in the book of the law to do them,</hi> Gal. 3.10. and in this ſenſe it is that the Scripture ſaith,
+<note place="margin">Rom. 3.10, 11. Eccleſ 7.20.</note> 
+               <hi>there is none righteous, none that doth good and ſinneth not,</hi> &amp;c. 2. Or that that is judged and dee<g ref="char:EOLhyphen"/>med (of men) to be ſuch, whenas they do but endeavour after the law, and in many things tranſgreſſe it, yea, ſin againſt the very end of it, in that they go about to make themſelves righteous in and by that which was given them to convince of them ſin, and let them ſee their need of righteouſneſſe, freely given them of God in the promiſed ſeed, This is that <hi>Paul</hi> cals a <hi>righteouſneſſe of a mans own,</hi> which while men ſeek <hi>to maintain they ſubmit not to the righteouſneſſe of God,</hi> (which is in Chriſt) <hi>Rom.</hi> 10.3. and which he himſelf <hi>would not be found in,
+<note place="margin">Phil. 3.8, 9.</note> but in that which is of the faith of Chriſt: a righteouſneſſe of works</hi> in which men from their zeal, blameleſſeneſſe, endeavours af<g ref="char:EOLhyphen"/>ter and performance of duties, do truſt in themſelves that they are and judge themſelves to be righteous, as the Phariſee in <hi>Luk.</hi> 18.10, 11. <hi>that truſted in himſelf that he was righteous,</hi> becauſe he did not as the looſer ſort, was no Publicane, no extortioner, <hi>&amp;c.</hi> and becauſe he was ſtrickt for paying tiths and keeping faſting daies, <hi>&amp;c.</hi> he ſaies not that he truſted to make himſelf righteous by ſo doing, but that he was already righteous, elſe he ſhould not have ſo done, this is a ſeeming righteouſneſſe, and many that have but this <hi>are pure in their own eyes, although they were never waſhed in and by the appearance of of the grace and and love of God,
+<note place="margin">Rev. 1.5.</note> from their ſinfullneſſe,</hi> never brought into Chriſt and juſtified through faith in his bloud, and yet theſe I confeſſe may have hope, and walk on confidently expecting happi<g ref="char:EOLhyphen"/>neſſe, and thinking this their righteouſneſſe advangious all their life time, yea, to their death, but yet in death in the very pinch it will fail them, and it will fare with them as with thoſe that they ſpeak of,
+<pb n="9" facs="tcp:117499:7"/>
+               <hi>Job.</hi> 8.13, 14. &amp; 11.20. <hi>their hope will periſh, and be like the giving up of the Ghoſt,</hi> it will die with them, and ſo deceive them, when it ſhould ſtand them in greateſt ſtead, becauſe it was not well bottomed, nor ſprung from living laſting principles, their righteouſneſſe from which it ſprung, and on which they leaned, was but a conceit of righ<g ref="char:EOLhyphen"/>teouſneſſe, an appearing and not a reall righteouſneſſe approved of by God, and therefore the hope grounded thereupon, will ſhrink with it, when God comes to touch it: we may ſay of this righteouſ<g ref="char:EOLhyphen"/>neſſe, and of them that are righteous in it,
+<note place="margin">Rom 2.28.</note> as the Apoſtle of the cir<g ref="char:EOLhyphen"/>cumciſion and Jew, that are but ſuch in the outſide, that is not <hi>righ<g ref="char:EOLhyphen"/>teouſneſſe that is outward in the appearance,</hi> nor he <hi>a righteous man that is one outwardly:</hi> therefore we muſt go yet a little further to a righteouſneſſe exceeding this as much as Chriſt would have his diſci<g ref="char:EOLhyphen"/>ples to exceed the Scribes and Phariſees, or elſe no admiſſion into heaven for them: a righteouſneſſe indeed which hath Gods accep<g ref="char:EOLhyphen"/>tance, of which we come to take view in the next place, <hi>viz.</hi> 3. A righteouſneſſe of faith which is called <hi>Gods righteouſneſſe,</hi> an evange<g ref="char:EOLhyphen"/>licall righteouſneſſe, which the Goſpel ſets forth and declares, and God freely gives, of which the Apoſtle <hi>Paul</hi> ſpeaks very frequent<g ref="char:EOLhyphen"/>ly, as in <hi>Rom.</hi> 3.21, 22. <hi>But now the righteouſneſſe of God without the law is manifeſted, being witneſſed both by the Law and Prophets, even the righteouſneſſe of God which is by faith of Jeſus Christ unto all, and upon all that beleeve:</hi> and ſo in <hi>Rom.</hi> 1.17. <hi>In the Gospel the righteouſ<g ref="char:EOLhyphen"/>neſſe of God is revealed from faith to faith,</hi> as it is written, <hi>the juſt ſhall live by faith,</hi> or <hi>the juſt by faith ſhall live,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>But what is the righteouſneſs of God that he gives us?
+<note place="margin">Queſt.</note>
+            </p>
+            <p>It's Jeſus Chriſt himſelf the Son of God,
+<note place="margin">Anſw.</note> in whom God gives us juſtification and a righteous eſtate,
+<note place="margin">Rom. 10.4. Jer. 25.5.</note> 
+               <hi>He is the end of the law for righte<g ref="char:EOLhyphen"/>ouſneſſe to every one that beleeves.</hi> Hence the Prophets called him <hi>The Lord our righteouſneſſe;</hi> and the Apoſtle <hi>Paul</hi> tels the beleevers, that as <hi>of God they were in Chriſt Jeſus, ſo of God Chriſt was made to them wiſdom, righteouſneſſe,</hi> &amp;c. Every one that hath him and is in him (not every one that talks of him and profeſſeth him and cals him Lord, Lord, but he that's found in him) is imputed of God and ac<g ref="char:EOLhyphen"/>counted righteous by him and in him: A righteouſneſſe this is that will as well rule him righteouſly that receives it, as preſent him unto God righteous. Now the way of receiving it, is beleeving; and for that cauſe partly it is called <hi>The righteouſneſſe of faith,</hi> as alſo becauſe it worketh righteouſneſſe or cauſeth us ſo to work through faith,
+<note place="margin">Rom. 10.6.</note> which beleeving, in its actings towards Chriſt and God in him, and
+<pb n="10" facs="tcp:117499:8"/>in its acting from God and Chriſt towards man, by Gods love act<g ref="char:EOLhyphen"/>ing it,
+<note place="margin">Gal 5.6.</note> is called (as I underſtand) our working righteouſneſſe or <hi>doing righteouſneſſe,</hi> in 1 <hi>Joh.</hi> 2.29. <hi>Every one that doth righteouſneſſe is born of him:</hi> which anſwers to <hi>chap.</hi> 5.1. <hi>Every one that beleeveth that Jeſus is the Chriſt, is born of God,</hi> and ſo in 1 <hi>Joh.</hi> 5.7. <hi>He that doth righteouſneſſe is righteous, as he is righteous:</hi> Which agrees with that in <hi>Col.</hi> 1.22, 23. <hi>To preſent you holy and unblamable and unreprovable in his ſight, if ye continue in the faith, grounded and ſetled</hi> &amp;c. That I ſay is our righteous doing eſpecially as it works towards God, or receiving Chriſt reſteth in God through him, in which reſpect it is ſaid alſo to be imputed to us <hi>for righteouſneſſe,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> or <hi>unto righteouſneſſe, Rom</hi> 4.5. Not for any inward merit in our acting it, for indeed it's rather acted in us, but ſuch is the love of God to his Son, that he accepts our beleeving on him, and takes it in as good part as if we had never ſinned againſt him, imputing it unto righteouſneſſe, that is out of his meer grace and gracious determination ſo approving it that he looks on us now through Chriſt, whom we therein beleeve on, and reckons us after Chriſt who is his righteouſneſſe. It is true, that it is a righteous thing in it ſelf that we ſhould beleeve the word of God,
+<note place="margin">
+                  <hi>Iſtis duobus <gap reason="illegible" resp="#UOM" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap> Chriſtiana, file que gloriam tribu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Deo, &amp; imputatione De<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſides enim firma eſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> oportet imputa<g ref="char:EOLhyphen"/>tiontia Dei ac<g ref="char:EOLhyphen"/>cedere.</hi> Luth, <hi>in</hi> Gal 3 6.</note> and there-through beleeve in Chriſt, ſet forth therein, and ſo in God through him, but yet this righteous thing of it ſelf as acted by us or in us, is too weak and low to denominate us righteous with God, or intitle us to Chriſt his righteouſneſſe, and make him ours, did not God graciouſly ſo reckon of it as to accept it unto righteouſneſſe or to the intailing Chriſt upon us to be our righteouſneſſe. But however that is our righteous-doing to give credit to God and beleeve on Chriſt, and the not doing ſo is great unrighteouſneſſe, that great ſin which the holy Ghoſt will convince the world of, <hi>Joh.</hi> 16.8, 9, 11. That that makes it a righteous thing to beleeve God, is becauſe he is true and all his words are pure and upright, there is no fraud or perverſ<g ref="char:EOLhyphen"/>neſſe in him or his ſayings, none ever traſted to them and were decei<g ref="char:EOLhyphen"/>ved by them, and thence it is too that unbelief is ſo great a ſin and ſo unrighteous a thing, becauſe it gives God (who is truth it ſelf) the lie, and makes a liar of him, 1 <hi>Joh.</hi> 5.10. And ſo again it is but a righteous juſt thing for men to beleeve on God in Chriſt, and the contrary is unrighteouſneſſe and ſin; and why? becauſe he is good and loving, yea love it ſelf, and doth good to men: ſo as that they have good ground of committing themſelves to him, and ſtaying on him, and this in Chriſt, becauſe he hath in him teſtified his love to poor fallen mankinde, and Chriſt hath ſo wonderfully deſerved well
+<pb n="11" facs="tcp:117499:8"/>of them, for he came from his Father into the world on purpoſe to take our nature, and therein bear our ſin, and die the death that was due to us, which he alſo out of pity and good will towards us hath done; and being riſen again and aſcended up to his father, he is with him the propitiation for our ſins, and having received of him all au<g ref="char:EOLhyphen"/>thority and power, yea being filled with all the fulneſſe of God, he holds forth himſelf as a Saviour to men as a Captain and leader rea<g ref="char:EOLhyphen"/>dy and able to ſave them to the uttermoſt, who ever ſubmit to him and follow him. Now God having done ſo much for us, and upon theſe grounds requiring us to hope in him through Chriſt and caſt our ſelves upon Chriſt, its but a moſt juſt and equall thing to beleeve on him: and not to truſt to one that hath prevented us with ſo much love and done ſo much for us, is horrible ingratitude and injuſtice. But by the way ſome may caſt in this doubt concerning themſelves,</p>
+            <p>Whether it can be made out that it is juſt and righteous that they in particular ſhould beleeve in him?
+<note place="margin">
+                  <hi>Doubt.</hi>
+               </note> For there are ſome ſo much be<g ref="char:EOLhyphen"/>wilded in pooring upon themſelves, that they think it rather pre<g ref="char:EOLhyphen"/>ſumption and ſin for them to hope in God and beleeve in Chriſt, then any waies right and juſt for them, and therefore if their hearts any time begin in conſideration of this mercy and goodneſſe a little to look towards him and conceive hope in him, they are ready to ſtart back again and ſay, alas I am ſuch a ſinner, I am not ſo well qua<g ref="char:EOLhyphen"/>lified, I fear it's preſumption in me to harbour any ſuch thoughts of mercy in him for ſuch a one as I: Such a one I ſay might here object and ask me how I can make it good that it's a juſt thing for him to beleeve in God, and that God hath done ſo much for him, as doth challenge his hoping and truſting in him?</p>
+            <p>To which I ſay,
+<note place="margin">
+                  <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lu.</hi>
+               </note> Not that thou maieſt know this by thy ſo doing or beleeving for that would be fallacious, and as to thee dangerous, it being the want of ſuch frames that make thee in this temper, beſides that, thou nor any man can througly beleeve in God or be rightly framed toward him, till he beleeves that God hath done ſo much for him and is ſo graciouſly affected towards him that there is good war<g ref="char:EOLhyphen"/>rant for beleeving in him, and this too from divine teſtimony, not humane conjectures, for <hi>faith</hi> that's right, <hi>comes by hearing,</hi>
+               <note place="margin">Rom 10.14.</note> and that hearing by which it comes <hi>is of the word of God:</hi> To anſwer poſitive<g ref="char:EOLhyphen"/>ly then out of the word of God, It's evident by Gods own teſtimo<g ref="char:EOLhyphen"/>ny there, that there is good ground for thee to beleeve on him, It's but that that his grace and good will teſtified towards thee doth re<g ref="char:EOLhyphen"/>quire of thee, for all that good will that I ſpake of before as a good
+<pb n="12" facs="tcp:117499:9"/>ground for faith, is teſtified in the Scripture to appertain to thee: for minde what the Scripture ſaith in this particular, and thou ſhalt ſee it clearly,
+<note place="margin">Joh. 3.16</note> for it is ſaid that <hi>he ſo loved the world as to give his ſon</hi> (yea for the <hi>unjuſt,
+<note place="margin">1 Tim 1.6. Heb 1.9. 2 Joh 2 2.</note> ungodly, ſinners</hi> and <hi>enemies,</hi> 1 Pet. 3.18. Rom. 3 6, 8, 10.) <hi>that whoſoever beleeves on him ſhould not periſh, but have everlaſting lift;</hi> that the Son of God <hi>gave himſelf a ranſome for all,</hi> and <hi>taſted death by the grace of God for every one,</hi> is the <hi>propitiation for our ſins, and not for ours only, but alſo for the ſins of the whole world.</hi> Well then, if thou beleeveſt the teſtimony of God by his Apoſtles (and ſurely that is to be credited before what men ſay) then maieſt thou ſee that this appertains to thee: if thou beeſt a man or one of the world, then God gave his Son for thee, and the Son of God came down from his Fa<g ref="char:EOLhyphen"/>ther into the world to be a Saviour for thee, and died and gave him<g ref="char:EOLhyphen"/>ſelf a ranſome for thee, and is the propitiation for thy ſins, this is (thou feeſt) the language of the Scripture and of the teſtimony that God hath given of his Son, that he died for ſinners, for men, for all, and there is none but will confeſſe that it's meet that we ſhould be<g ref="char:EOLhyphen"/>leeve Gods ſaying, as that which is in it ſelf undoubtedly true. Why then it's meet that thou believe him in this particular too, elſe thou dealeſt unrighteouſly with him and giveſt him the lie? and if thou faieſt, ah! but thou wouldſt have ſome ſign or token of the truth of this as concerning thee from him in ſomething to be done by him to thy ſoul before thou canſt or wilt give credit to it and judge it true, then doſt thou,
+<note place="margin">M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. 12.33.</note> as that adulterous generation which Chriſt reproveth ſeeking ſignes and tokens, when God himſelf witneſſed in his word concerning him, and if thou ſhouldſt perſiſt in that way, thou maiſt be given up to deluſion to beleeve a lie, and to be drawn from the truth aſſerted in the word, by lying ſigns and wonders, ſuch as God ſometimes orders to thoſe that receive not the love of his truth that they might be preſerved and ſaved by it;
+<note place="margin">2 Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. 1. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Parath in</hi> R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 9.</note> If thou wilt not beleeve Gods word, thou art in a dangerous way of miſcarrying. It's a good counſel (that <hi>Eraſmus</hi> gives) in ſuch caſes, <hi>Deſine diſceptare, incipe credere, ita citius intelliges,</hi> Leave off diſputing and queſtioning about Gods word and oppoſing thy vain reaſon againſt it, offer up thy rea<g ref="char:EOLhyphen"/>ſon (as
+<note n="*" place="margin">
+                  <hi>Hoc eſt juge illud ſacrificti veſper<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ii &amp; matu<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>um No<g ref="char:EOLhyphen"/>vi Teſtament<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Veſpertinum mortificare ra<g ref="char:EOLhyphen"/>tione<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> matu<g ref="char:EOLhyphen"/>tin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, glorificare Deu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> lu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <hi>in</hi> Gal 3.6.</note> 
+               <hi>Luther</hi> adviſes) as an evening ſacrifice, let that be mor<g ref="char:EOLhyphen"/>tified in whatſoever it ſets it ſelf againſt the word of God, and inſtead thereof do thou begin to beleeve and give credit to what God ſaith, and ſo thou ſhalt ſooneſt come to underſtand: which counſel I the ra<g ref="char:EOLhyphen"/>ther commend, becauſe it ſutes with the word of God it ſelf, it agrees with that of <hi>James</hi> 1.19. <hi>Be ſwift to hear, ſlow to speak ſlow to wrath;</hi>
+               <pb n="13" facs="tcp:117499:9"/>ready to liſten what God ſaith in his word of truth, but ſlow to be putting in thy gloſſes and corrections upon it, and ſlow to wrangle with it or to be offended at what is ſaid therein, and ſo in <hi>Iſa.</hi> 7.9. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which <hi>Tertullian</hi> renders thus,
+<note place="margin">
+                  <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o taami<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lo reamenu.</hi> Tertul <hi>adverſ. Marciod</hi> 4 <hi>c</hi> 32</note> 
+               <hi>Niſicredideritis non intelligetis,</hi> unleſſe ye beleeve ye ſhall not under<g ref="char:EOLhyphen"/>ſtand, God would have us take his word, and then he will let us ſee the truth and faithfullneſſe of his word, Man is apt to look the wrong way, in firſt deſiring to have his reaſon ſatisfied before he will beleeve, but if thou wouldeſt prove and experiment the truth and certainty of his word to thy ſoul, and have the profitable underſtanding of it, do thou firſt receive it and cloſe with it, holding it for true and cer<g ref="char:EOLhyphen"/>tain, and then beleeving it to be true, thou wilt judge it but a meet and righteous thing to commit thy ſoul to him, and betruſt thy ſelf with him that hath prevented thee with ſo much goodneſſe, and de<g ref="char:EOLhyphen"/>clared ſuch love to thee before-hand that thou mighteſt be perſwad<g ref="char:EOLhyphen"/>ed to beleeve in him, and that it's thy great ſin and evill that thou art ſo diffident and diſtruſtfull of him, yea, in cloſing with that word of his grace, in which he hath teſtified ſuch love towards thee in Chriſt,
+<note place="margin">Iſa. 50.2.</note> thou ſhalt in due ſeaſon finde and feel the power of God put forth to ſave thee from diſtruſting him, and ſo enabling thee with thy heart to beleeve on him, ſo as it ſhall be imputed unto thee for righteouſ<g ref="char:EOLhyphen"/>neſſe, Chriſt himſelf ſhall be made thy righteouſneſſe, and thou ac<g ref="char:EOLhyphen"/>counted and accepted as righteous in him. And now to bring thee a<g ref="char:EOLhyphen"/>gain to the buſineſſe where Chriſt is ſo received by faith as that the ſoul depends upon him, and he becomes it's righteouſneſſe and pre<g ref="char:EOLhyphen"/>ſents him righteous to his father, thence he will be operative in the ſoul too by his Spirit teaching the ſoul to walk righteouſly and act forth righteouſneſſe, both to God and man. For the faith that ſo re<g ref="char:EOLhyphen"/>ceives Chriſt is not a bare dead notionall apprehenſion of a propoſi<g ref="char:EOLhyphen"/>tion ſloating in the brain, but ſuch a cordiall cloſing of the heart with the word of God, as that it cloſeth with, loveth, prizeth and leaneth on Chriſt held forth therein, and aſcendeth up to God by him, loving, admiring, panting after and cleaving to God in him, the Spirit of life that is in Chriſt Jeſus, working effectually in the ſoul, and filling it with divine and heavenly vertues and operations, as to devote it ſelf to God for his great love towards it, to expect further good from him, to ſubmit unto him, <hi>&amp;c.</hi> and ſo be filled with peace and joy in the ma<g ref="char:EOLhyphen"/>nifeſtation of Gods accepting it and witneſſe thereof bearing to it, with love and charity to men, inward deſires of their good, and rea<g ref="char:EOLhyphen"/>dines really to endeavour it as opportunity is offered, as knowing that
+<pb n="14" facs="tcp:117499:10"/>God would have them to be ſaved, and that what Chriſt hath in his death and ſufferings procured into himſelf, it is free for any to come to him for, <hi>whoſoever will may take freely of the waters of life,</hi> as alſo that it is acceptable to God that they ſhould ſo walk towards others, as he hath walked toward them, and indeed faith as it gives a ſight to the ſoul of the glorious grace of God, ſo is it a means of the ſouls being transformed through that glory ſeen, into his ſimilitude, to love as he hath loved, pity where he ſhews pity, and to delight in that which he delighteth, it teacheth us <hi>to deny all ungodlines and worldly luſts, and to live godly, righteouſly and ſoberly in this preſent world,</hi> to hold forth the word of life, and work the works that are acceptable to God, and profitable to men, not in any thing to injure or wrong them, but in all things to ſeek their commodity as occaſion is preſented to them, that they might glorifie God in <hi>the day of their viſitation,</hi> and be turn<g ref="char:EOLhyphen"/>ed unto God, and every one that ſo beleeveth the teſtimony of God concerning Chriſt in his heart, that he therein receiveth Chriſt for his wiſdom, righteouſneſſe, holineſſe and redemption, and is brought to rely upon him and God in him for pardon, peace, life, ſpirit, and whatſoever may concern his happineſſe, and therewithall is framed to the minde of Chriſt, to live to him and to God in him, as hath been ſhewn: he is the truly righteous man here to be underſtood in the text, one whom God approves and holds for righteous: Every through, cordiall and ſincere beleever, he is the righteous man here ſpoken of, and that is the firſt thing propounded for explication, who is this righteous man, in opening which I have been the larger, becauſe that's of moſt weight, and men are apteſt therein to be deceived, reſt<g ref="char:EOLhyphen"/>ing either in morall or Phariſaicall conceited righteouſneſs, in ſtead of the true righteouſneſſe, which is according to God, or elſe to reſt in a form and carcaſle of faith, that receives nothing but propoſitions of truth into the head, but receiveth not Chriſt into the heart to be it's righteouſneſs, from all which the righteouſneſſe of God doth greatly differ, &amp; beyond all which kinde of righteous men the man that's truly righteous, doth very much go, as is declared: having cleared that, let us now come to the ſecond thing propounded to be explained and ope<g ref="char:EOLhyphen"/>ned,
+<note place="margin">
+                  <hi>Queſt.</hi> 2.</note> 
+               <hi>viz.</hi> What the hope is that ſuch a righteous man hath in his death?</p>
+            <p>In opening that I ſhall conſider this his hope, both in it's
+<list>
+                  <item>object, and</item>
+                  <item>ground.</item>
+               </list>
+            </p>
+            <p>This hope may be conſidered according to it's object, and that firſt <hi>Objectum in quo,</hi> The object unto which the heart is led and car<g ref="char:EOLhyphen"/>ried, and in which it hath it's expectation, and that is not any vain,
+<pb n="15" facs="tcp:117499:10"/>empty creature, either it ſelf, or any other thing in the whole world, for the righteous man is crucified to them with Chriſt, and knows there is nothing to be met with from them, that can help or ſatisfie, and that God hath pronounced a curſe upon him that truſteth in man, and maketh fleſh his arm, <hi>Jer.</hi> 17.5. His hope therefore is ſet upon God in Chriſt, from him is all his expectation, according to that of <hi>David,</hi> Pſa. 62.1, 2. <hi>Truly my ſoul waiteth upon God, from him cometh my ſalvation,</hi> and that in <hi>Lam.</hi> 3.24. <hi>The Lord is my portion, ſaith my ſoul, therefore in him will I hope:</hi> God as he hath diſcovered himſelf to the ſoul in Chriſt, ſo he himſelf is the object in which it hopeth, and from whom it expecteth what it hopeth for. 2. The <hi>Objectum propter quod,</hi> the object for which it hopeth, it hopes for ſomething as well as in ſomething, as to inſtance, he hopes for ſupport and preſervation through death: <hi>Though I walk in the valley of the ſhadow of death, yet will I fear none ill, for thou art with me, thy rod and thy ſtaff doth com<g ref="char:EOLhyphen"/>fort me,</hi> or <hi>ſupport me,</hi> Pſa. 23.4. <hi>Pſa.</hi> 37.25.</p>
+            <p n="2">2. The enjoyment of Chriſt and God in Chriſt more fully in his Spirit, after the diſſolution of the body, thence <hi>Paul</hi> Phil. 1. <hi>I deſire to be diſſolved, and to be with Chriſt,</hi> 2 Cor. 5.6, 8. <hi>knowing that when we are at home in the body, we are abſent from the Lord, walking by faith and not by fight, we deſire to be rather abſent from the body, and to be pre<g ref="char:EOLhyphen"/>ſent with the Lord,</hi> the righteous man hopes for a more full enjoy<g ref="char:EOLhyphen"/>ment of Chriſt then here he was capable of.</p>
+            <p n="3">3. He hopes that God will yet take care of his people and pre<g ref="char:EOLhyphen"/>ſerve his Church, and carry on his work in the world for the glory of his name, and will not be wanting to his poſterity, if he leave any be<g ref="char:EOLhyphen"/>hinde him, <hi>Deut.</hi> 33.26, 29.</p>
+            <p n="4">4. His reſurrection out of death, and the full poſſeſſion of eternall glory, which Jeſus Chriſt in the re-union of the ſoul and body as is at large declared in 1 <hi>Cor.</hi> 15. and in 1 <hi>Theſ.</hi> 4.16, 17. &amp;c. <hi>He that raiſed up the body of the Lord Jeſus Chriſt, ſhall alſo raiſe up the belee<g ref="char:EOLhyphen"/>ver, and give him acrown of life and glory that ſhall never fade, where there ſhall be no mixture of grief or miſery with his joy or happineſſe, but he ſhall be fully and for ever ſatisfied with the glorious enjoyment of God in Chriſt Jeſus, This is the hope that a righteous man hath in his death, the object hoped for.</hi> 2. This hope may be conſidered too in the ground or motive of it whence it ſpringeth, or what that is that gives a man encouragement and boldneſſe to hope in God and Chriſt for ſuch happineſſe, yea, even in death when God ſeems to be about co cut him off for ever, and that is properly the Lord Jeſus Chriſt, as he is the gift
+<pb n="16" facs="tcp:117499:11"/>of God, the manifeſtation of the Fathers love and grace, the Media<g ref="char:EOLhyphen"/>tour and Saviour of the ſoul, declared to the ſoul in the Goſpel, and received by faith, whence the Apoſtle ſtiles him, <hi>our hope,</hi> Paul <hi>an A<g ref="char:EOLhyphen"/>postle by the commandment of the Lord Jeſus Chriſt our hope,</hi> 1 Tim. 1.1. and again, <hi>Chriſt in you the hope of glory,</hi> Col. 1.28. for it's in the gift of him for and to the ſoul, that it apprehends the love of God to be ſuch towards it, as that it hath good cauſe for ever to hope in him, and thus to reaſon concerning him, <hi>If when we were enemies we were re<g ref="char:EOLhyphen"/>conciled unto God by the death of his Son, how much more being reconci<g ref="char:EOLhyphen"/>led ſhall we be ſaved by his life?</hi> Rom. 5.10. Now becauſe it is this love of God ſhed abroad into the heart by the holy Ghoſt, that ſprings up this hope in God, as <hi>Rom.</hi> 5.5, 6. therefore the Apoſtle cals it <hi>good hope through grace,</hi> that is, ſprung up through the apprehenſion and ap<g ref="char:EOLhyphen"/>pearance of the grace or favour of God towards us (as in another reſpect, <hi>viz.</hi> becauſe this grace is declared in the Goſpel, and there<g ref="char:EOLhyphen"/>through diſcerned by us, it's called alſo <hi>the hope of the Gospel,</hi> Col. 1.23. 2 <hi>Theſ.</hi> 2.16. <hi>a lively hope,</hi> that puts lively chearfull thoughts into the ſoul, and makes it live in the midſt of death in expectation of a crown, and <hi>inheritance incorruptible and immortall</hi> &amp;c, 1 Pet. 2.3. and that grounded upon the reſurrection of Chriſt from the dead) thence it's alſo a good hope not only becauſe it doth good to the ſoul, in ſa<g ref="char:EOLhyphen"/>ving, preſerving and ſupporting it in trials and afflictions, ſo as that it ſaints not nor turns away from God,
+<note place="margin">1 Joh. 3.3.</note> but is kept in dependance on him, or in that <hi>it alſo purifies</hi> the ſoul, or leads the man to <hi>purge him<g ref="char:EOLhyphen"/>ſelf</hi> through the grace of God, beleeved, that he may be meet for ſuch a hope or glory hoped for, in the view of which it alſo gives the ſoul <hi>ſtrong conſolation,</hi> making it in death to trample upon death, and rejoice over death, becauſe of the glory to be revealed and enjoyed after it, but alſo it's good, becauſe of the foundation whence it right<g ref="char:EOLhyphen"/>ly fetcheth in all this good to the ſoul, the ground of it being of that pretiouſneſſe in it ſelf, and acceptableneſſe with God, as doth cauſe theſe fruits to ſpring from it, and put an everlaſtingneſſe into them, the vertue and goodneſſe of the righteouſneſſe of mans hope in God, ſprings from the goodneſſe of the ſpring and riſe of it. The Phariſee hoped for great things from God, <hi>Luk.</hi> 18.9, 10. as that God would accept him and account him righteous, and deal with him as a righte<g ref="char:EOLhyphen"/>ous man, ah! but his hope was naught, becauſe it ſprung from a wrong foundation, it ſprung from his own goodneſſe and good perfor<g ref="char:EOLhyphen"/>mances, which he conceived to be the effects of Gods love to<g ref="char:EOLhyphen"/>wards him; he knew nothing of love to him in God, before his
+<pb n="17" facs="tcp:117499:11"/>good performances to ſpring them up in him, but he concludes now that God did love him from his good performances, <hi>God I thank thee that I am not as other men are;</hi> he thought that he could not have been ſo good as he was, if God had not had ſpeciall and eter<g ref="char:EOLhyphen"/>nall love and favour towards him. But the righteous mans hope grows upon another root: he firſt heard of and was perſwaſed of Gods love towards him in the promiſed ſeed, the gift of Jeſus Chriſt for him while a ſinner and ungody, and the belief of this Gods love in him brings him in to beleeve in him and hope in him; he therefore hopes and expecteth that God will ſupport and carry him through death, and bring him to ſuch glorious injoyment of eternall life as hath been mentioned, yea to greater glory then can be mentioned, becauſe he ſees and beleeves that he hath already in Chriſt prevented him with his love, in whom death is aboliſhed, life and immortality brought to light, ſin ſatisfied for, law fulfilled, eternall redemption obtained, God well pleaſed that man ſhould have eternall life, and to that end hath put it in his Son, and put it upon his Son to beſtow and give it to every one that leans upon his grace and ſubmits to be<g ref="char:EOLhyphen"/>leeve on him for it; to which end alſo he ſees in the Goſpel, and in his heart beleeves that God hath given his Son infinite glory, power and authority to ſubdue whatever in the Beleever or without him would hinder him of his glory, appointed him judge of quick and dead, to forgive and pardon all ſins to all that by his goodneſſe are brought to him; to give them his good Spirit, preſerve them in tri<g ref="char:EOLhyphen"/>als, come again and raiſe them out of death, and make their vile bodies like his own glorious body, and in the iſſue poſſeſſe them with himſelf and of his own glory, for the effecting all which in and for him the righteous man judges and beleeves him both able and faith<g ref="char:EOLhyphen"/>full, in which hope he is confirmed by the experiments of the divine grace calling and quickning him; and from this free-grace in Chriſt which brings the ſoul to do righteouſneſſe in beleeving on him, and ſo leads it to the enjoyment of Chriſt for righteouſneſſe with God, ſprings up (in his moſt dying condition) this hope of the glory and further grace before expreſſed. And ſo we have done with the ex<g ref="char:EOLhyphen"/>plication of thoſe two things propounded, and ſo with the explicato<g ref="char:EOLhyphen"/>ry work about the propoſition, It remains that we come next to the confirmation of it.</p>
+            <p>For confirmation of this point I ſhall only do theſe two things.</p>
+            <p n="1">1. Shew that it hath been ſo with righteous men in former ages, ſuch as the Scripture mentions, and</p>
+            <pb n="16" facs="tcp:117499:12"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:117499:12"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:117499:13"/>
+            <p n="2">2. Shew that this our deceaſed Friend and Brother (as others of this place before him) found it ſo.</p>
+            <p n="1">1. Scripture inſtances of the cloud of witneſſes produced there<g ref="char:EOLhyphen"/>in prove this to be true, <hi>That the righteous hath hope in his death.</hi> It mentions a large catalogue of Worthies that lived and died in faith, though they received not the promiſes. <hi>I never ſee the righteous</hi> (faith <hi>David) forſaken,</hi> Pſa. 37.25. Why then? not in death neither, God hath given them hope in that too: How ſweet<g ref="char:EOLhyphen"/>ly ſung old <hi>Jacob</hi> when he breaths forth this confeſſion in the midſt of his bleſſings,
+<note place="margin">Gen 49.18.</note> 
+               <hi>I have waited, O Lord, for thy ſalvation.</hi> So <hi>David</hi> when in great danger of death, many conſpiring to take away his life, ſee how his heart then hoped in God, <hi>I ſaid, O Lord, thou art my hope, my times are in thine hand,</hi> Pſal. 31.15.19. And a little before his giving up of the Ghoſt, how ſweet are his expreſſions, 2 <hi>Sam.</hi> 23.3, 4, 5. <hi>Theſe are the laſt words of David, David the ſon of Jeſſe ſaid, the man that was raiſed up on high. The anointed of the God of Jacob, and the ſweet Pſalmiſt of Iſrael ſaid, the spirit of the Lord ſpake by me, and his word was in my tongue, the God of Iſrael ſaid, the Rock of Iſrael ſpake to me, He that ruleth over men muſt be juſt, ruling in fear of God, and he ſhall be as the light of the morning, when the ſun riſes, a morning without cloud, as the tender graſſe springing out of the earth, by clear ſhining after rain: Although my houſe be not ſo with God, yet he hath made with me an everlaſting covenant, ordered in all things and ſure, for this is all my ſalvation and all my deſire, although he make it not to grow.</hi> Sweet expreſſions of aſſured confidence flowing from Gods love in his covenant with him, whereof Chriſt is the Mediator, if not rather the ſumme and contents of it, and yet theſe were the expreſ<g ref="char:EOLhyphen"/>ſions of a dying righteous man.
+<note place="margin">Act. 13.3 4. Job 19.25, 26, 27.</note> What ſhould I mention <hi>Job</hi> whoſe voice it was in the midſt of diſtreſſe, <hi>I know that my redeemer liveth, and he ſhall ſtand at the latter day upon the earth, and though after my skin worms deſtroy this body, yet in my fleſh ſhall I ſee God: Whom I ſhall ſee for myſelf, and mine eyes ſhall behold, and not another, though my reins be conſumed within me;</hi> A glorious triumph over death in the midſt of deaths.
+<note place="margin">2 Tim 4.8.</note> I ſhall add no more from Scripture but that of <hi>Paul, Henceforth is laid up for me a crown of life, which God the righteous Judge ſhall give me.</hi> All which inſtances are evident witneſſes of this truth, <hi>That the righteous hath hope in his death:</hi> To which I might al<g ref="char:EOLhyphen"/>ſo have added the conſtant confeſſions and ſweet hopefull expreſſi<g ref="char:EOLhyphen"/>ons of many Martyrs, but I paſſe them over for brevity, and ſo come</p>
+            <p n="2">2. To this our Friend and Brother decaſed; he was another in<g ref="char:EOLhyphen"/>ſtance
+<pb n="19" facs="tcp:117499:13"/>of, and witneſſe to this truth, as all that were eye and ear witneſſes of his carriage in his ſickneſſe will affirm: For though he was known and noted to be a man naturally of a timerous and fear<g ref="char:EOLhyphen"/>full diſpoſition, afraid of dangers, yet ſuch the more abundant ope<g ref="char:EOLhyphen"/>ration of the grace of God in him, in his ſickneſſe and at his death, he was nothing at all afraid of death, though the king of terrour, nay ſo far was he from fearing it that it was his deſire to be diſſolved and to be with his Lord Jeſus, which he longed for far above life, even from the begining of his ſickneſſe, ſo that ſome being deſirous to pray for him, he would by no means that they ſhould pray to preſerve his life here any longer, but that he might go to his Lord Jeſus, and be taken from that ſtate of eſtrangement and abſence from him that he was in while in this body, to be at home with him, that he might in his ſpirit more fully ſee and enjoy him whom he had ſeen by faith, or whom not ſeeing, yet he beleeved in and loved, for that good report of his love in the Goſpel declared to him, as he had wrought righteouſneſſe or done righteouſly in his life, in receiving the teſtimony of the Goſpel the record of God concerning Jeſus Chriſt, and was not aſhamed of it though ſpoken againſt and reje<g ref="char:EOLhyphen"/>cted by men, nor of thoſe that brought it, though weak, and vilified by moſt, ſo went he not without the fruit of it in his death, the word of God wrought effectually in him both in life and death: In his life time it wrought in him to deſire the true and laſting riches, although he was bleſſed here with a good and large portion of theſe outward riches, which often prove ſuch ſnares and intanglements to mens hearts, that they cannot attend to God for the true; yea and whereas commonly rich men are high minded (as it is intimated in that charge given them, not to be high minded, 1 <hi>Tim.</hi> 6.21.) and prove great hinderances of mens entring the ſtrait gate (becauſe men are apt to ſwell in their mindes up to the largeneſſe, yea and of<g ref="char:EOLhyphen"/>ten far beyond the largeneſſe of their eſtates, and to deſpiſe ſo low and contemptible a way as the Goſpel is) It was not ſo with him, the goodneſſe of God ſo wrought in him, as for the enjoiment of Chriſt, he condeſcended to them of low degree to bear the reproach of Chriſt with them, and to profeſſe the deſpiſed Goſpel amongſt them: A rare thing to finde a rich eſtate and a poor humble ſpirit together, riches and pride and loftines uſually accompany each other, and ſo choaking all motions or deſires of goodneſſe, that they come not out to perfection, In all this he did righteouſly, but above all in that he received not only the ſound, but the ſubſtance of the Goſpel,
+<pb n="20" facs="tcp:117499:14"/>the truth into his heart, ſo as to ſet his hope in God therethrough, and to expect his ſalvation (as alſo his brother had done before him, how<g ref="char:EOLhyphen"/>ever oppoſite at firſt as many others yet are) which accompanied him to his death as hath been expreſſed, which hope alſo ſuted with the hope of the righteous man in this, that it was founded upon the love of God in Chriſt to mankinde and ſo to him. The death, reſur<g ref="char:EOLhyphen"/>rection, aſcenſion, mediation of the Son of God for him according to the Goſpel declaration, as appears by this enſuing confeſſion of his faith which he penned with his own hand when he firſt began to grow ſick and weak, and cauſed to inſerted into the preface of his Will, whence alſo as I was requeſted I copied it out word for word to publiſh it to you as here followeth.</p>
+            <q>
+               <hi>I bequeath my ſoul into the hands of God as into the hands of a faith<g ref="char:EOLhyphen"/>full Creator, who hath made heaven and earth and all things therein, and to Jeſus Chriſt the ſecond perſon in the Trinity, God bleſſed for ever, who hath redeemed me and all mankinde, for the Scripture that I do faithfully beleeve ſaith, That he by the grace of God taſted death for every man, and St</hi> John <hi>ſaith, That</hi> God ſo loved the world that he gave his only begotten Son, that whoſoever beleeveth in him ſhould not periſh but have everlaſting life. <hi>And the ſame</hi> John <hi>ſaith in his Epiſtle,</hi> He is the propitiation for our ſins, and not for ours only, but alſo for the ſins of the whole world, <hi>and other ſuch like Scriptures which I here forbear to inſert: And this I do declare becauſe ſo many do deny the truth of theſe Scriptures, and ſome others deny all Scriptures, and many now in our daies deny the Lord Ieſus Chriſt to be the ſecond Perſon in Trinity, and ſo account the written Scriptures as a Hiſtory, and the myſtery in their hearts they give for Scripture: But I do faithfully be<g ref="char:EOLhyphen"/>leeve as it is recorded in the word of God, that that Ieſus who died for all men, is riſen free and acquit of all that was againſt them, for to this end he both died and roſe again that he might be Lord of all, and is aſcen<g ref="char:EOLhyphen"/>ded up on high and hath received gifts
+<note n="*" place="margin">
+                     <hi>Or,</hi> In the man.</note> for men, to ſend forth even to the rebellious that the Lord God might dwell amongst them, and that they might come to the knowledge of the truth and be ſaved, ſuch proviſion hath God made for all in and through his Son, that be invites all to come, and ſaith all things are ready, his trible is furniſhed, and he bids them eat of his bread and drink of his wine that he hath mingled. Thus far is the love of God in his Son ſet forth to all, and more fully, and of his fulneſſe have we all received and grace for grace: And further it is ſaid,</hi> To ſo many as received him, to them he gave power to become the Sons of God, to them which beleeve in his Name: <hi>Which makes it plain that
+<pb n="21" facs="tcp:117499:14"/>whoſoever is found to receive and accept what is declared in the Scri<g ref="char:EOLhyphen"/>ptures of what Jeſus hath done for all, it is as much as to ſay they receive him, that is, to own God for their father in the righteouſneſſe of his Son, ſo that he that is Gods righteouſneſſe is their righteouſneſſe who preſents them in himſelf unto the Father, and for them be hath a further bu<g ref="char:EOLhyphen"/>ſineſſe with the father, as in</hi> 1 Joh. 2.1. <hi>is declared,</hi> We have an Ad<g ref="char:EOLhyphen"/>vocate with the Father, Jeſus Chriſt the righteous, <hi>making good our cauſe, and not ſuffering our evils to come up before him; and it is through what he hath done by dying, riſing and aſcending, and continuall advocating, that I have all my hope, that when I depart this life I ſhall live with him, according to that Scripture which ſaith,</hi> Becauſe I live ye ſhall live alſo, <hi>&amp;c.</hi>
+            </q>
+            <p>Thus he expreſt himſelf: In the laſt expreſſion of which, you have the confeſſion of his hope to agree with what I ſaid before of the righteous mans, that it ſprung from a good bottom, the death, re<g ref="char:EOLhyphen"/>ſurrection and advocation of Jeſus Chriſt, as with that of the Apoſtle <hi>Peter,</hi> who ſaith, <hi>God hath begotten them to a lively hope through the reſurrection of Chriſt from the dead:</hi>
+               <note place="margin">1 Pet, 1.3.</note> So that as this our Brother did righteouſly, to beleeve the Goſpel of the grace of God, and therethrough to beleeve in God, ſo had he a good hope in his death, a hope for good and glorious things, and a hope well grounded, And thus we have ſeen the explication and confirmation; Come we now to the third particular, <hi>viz.</hi> Application, with which we ſhall conclude.</p>
+            <p>You hear, friends, what the Scripture ſaith,
+<note place="margin">
+                  <hi>Application.</hi>
+               </note> and you have heard ſeverall inſtances of the truth of it; minde well what ye have heard, minde the Scriptures and minde the end of the juſt ones, even ſuch as you have had amongſt you: The firſt tels you, <hi>That the righteous hath hope in his death;</hi> the other hath experimented and proved it, and rejoiced in affliction and death for the hope of the glory which they expected further to be revealed on them. Both Scriptures and their experience commend to us theſe following inſtructions.</p>
+            <p n="1">1. Take notice of the excellency of righteouſneſſe, and of the condition of a righteous man, how good it is to receive by faith the righteouſneſſe of God, and how well it goes with them that ſo do: What is there in all the World to be compared to righteouſneſſe: We may ſay of it, as <hi>Solomon</hi> of wiſdom, and indeed it's a high point of wiſdom to do righteouſly in beleeving;
+<note place="margin">Prov. 3, 14, 15, 16, &amp;c.</note> 
+               <hi>The <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ch and ſo thereof is better then the merchandiſe of ſilver, and the gain thereof better then of ſine gold: She is more precious then rubies, y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all that thou canſt deſire is not to be compared to her. She is a tree of lift to all that take hold of
+<pb n="20" facs="tcp:117499:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:117499:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:117499:16"/>her,</hi> &amp;c. Alas! How empty are the riches and honours and pleaſures of this world, in compariſon of righteouſneſſe! they may make a man frolick outwardly in this life (and yet not that neither, except God give health and power to enjoy them) but often times in the midſt of that jollity and bravery the heart is ſad, the conſcience torn and broken, and alas when death comes, and judgement appears at the back of it, then what trembling! then, except the conſcience be hardned, ſeared and grown utterly careleſſe, what terrours and pangs of deſpair torment it! All theſe things that the world ſo much prize, are but bread that periſheth: They may perhaps make us a little glo<g ref="char:EOLhyphen"/>rious to the world, but cannot give us peace with, nor hope in God. <hi>Riches deliver not in the day of wrath, but righteouſneſſe</hi> (this righte<g ref="char:EOLhyphen"/>ouſneſſe of faith which is accepted with God for righteouſneſſe, and ſo Chriſt received and beleeved on) <hi>delivers from death,</hi> Prov. 11.4. That will give a man boldneſſe in the day of judgement, while he knows his Judge is his righteouſneſſe, and will protect him from wrath and vengeance. Oh that men did ſee the worth of righteouſ<g ref="char:EOLhyphen"/>neſſe, the righteouſneſſe of God, ſurely then they would not trifle ſo much time and ſtrength and talents away, about empty lying vani<g ref="char:EOLhyphen"/>ties, they would not ſo ſwell with conceits of themſelves, and look ſo big for a few muddy riches, for a little fading, appearing worldly glory, they would not be ſo cheated into a contentedneſſe with ſome painted ſhews of righteouſneſſe, formall devotions, ſo much religion as may ſerve them to live in credit with men, and lull their conſci<g ref="char:EOLhyphen"/>ences aſleep, till they ſatisfie their earnall earthly deſires, no certain<g ref="char:EOLhyphen"/>ly they would count all things but loſſe and dung that they might win Chriſt and enjoy him for their righteouſneſſe: Well friends, how<g ref="char:EOLhyphen"/>ever you may purſue after other things, and bleſſe your ſelves in your enjoyments, poſſeſſions, eaſe, pleaſures, vanities now, yet there will come a day in which all theſe appearing deceitfull, you will wiſh for righteouſneſſe, you will ſee then what hath been now ſhewed you, and what the wiſe man ſaith, <hi>viz. That the righteous man is more excellent then his neighbour;</hi>
+               <note place="margin">Prov. 12.26.</note> as he is more excellent in his life, becauſe exalted in Chriſt and inriched with him and his priviledges, as alſo becauſe of his ſpirit in him, conforming him to Chriſt, and putting ſomething of heaven and heavenly vertues into him, ſo will he be found more excellent in his death, when his heart ſhall have hope and rejoicing in God, while other mens ſink within them or die like ſtones, being without God, and without hope to God. Oh that now therefore you would take notice of the excellency of righteouſneſſe
+<pb n="23" facs="tcp:117499:16"/>above all things in the world, that you may not ſlight it, and ſo want its ſweet and ſatisfactory uſefulneſs when you have moſt need of it.</p>
+            <p n="2">2. Be we exhorted to follow after righteouſneſſe,
+<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 2.</note> to imbrace the righteouſneſſe of faith, to receive the Lord Jeſus Chriſt, the bread of life, and the true righteouſneſſe that God gives us: Know and be<g ref="char:EOLhyphen"/>leeve friends, that God doth give you righteouſneſſe in Chriſt, he hath ſent him into the world for you to be your Saviour, hath laid the ſin of the world upon him, and he hath born it and ſuffered death for it, this he hath done for all, therefore beleeve and know it is true for you, and that God having raiſed him from the dead, hath given him in the humane nature all fulneſſe of power and au<g ref="char:EOLhyphen"/>thority, ſo that he is able to the uttermoſt to ſave you, to forgive you your ſins, he having died for them, for otherwiſe, according to the order of Gods proceeding, he ſhould not be able to forgive you, if he had not ſhed bloud for your ſins,
+<note place="margin">Heb 9.22.</note> for <hi>without bloudſhedding there is no remiſſion.</hi> But know that he, I ſay, is able to forgive and ſave you, With him <hi>there is forgiveneſſe that he might be feared:</hi>
+               <note place="margin">Col. 1.14.</note> And if the knowledge and belief of it work ſo with you, as to turn you in to fear him, you ſhall have that forgiveneſs with and in you, it ſhall paſſe upon you, yea he is ready to receive and forgive you, he cals you to him that he might confer this grace upon you: <hi>Let the wicked for<g ref="char:EOLhyphen"/>ſake his waies, and the unrighteous man his thoughts, and return to the Lord, for he will have mercy,</hi> &amp;c. <hi>and to our God for he will abundantly pardon,</hi> Iſa. 55.7. Yea he ſent his Son <hi>to turn every one of you from, your iniquities,</hi> Act. 3 Only he would have you <hi>to look to him for it and be ſaved by him,</hi> Iſa. 45.22. Now, oh be perſwaded to do righ<g ref="char:EOLhyphen"/>teouſneſſe, ſeeing righteouſneſſe is ſo excellent a thing, and hath ſo great recompence of reward: Receive the word and grace of God, give credit to the record that God bears of his Son, that <hi>he hath gi<g ref="char:EOLhyphen"/>ven us eternall life, and this lift is in his Son: He that hath the Son hath life,</hi> &amp;c. That God hath ſent him forth <hi>to be the Saviour of the world,</hi> and <hi>he hath given himſelf arauſome for all,</hi> and ſo <hi>died</hi> and is <hi>riſen</hi> for thee, and hath <hi>life is himſelf</hi> for thee to look after and to receive in looking to him, that God in him hath thewed forth exceeding grace towards thee, and be not of a gainſaying heart and ſpirit wrangling againſt the word and patting it from thee; <hi>Let the unrighteous man forſake his own is righteouſneſſe,</hi> wrong, unbeleeving thoughts, and lay down all the ſuſpitions and contradictions of his own reaſon againſt Gods truth, and turn to the Lord to minde, receive, beleeve and cloſe with his ſayings, that they being intertained, Chriſt himſelf to whom
+<pb n="24" facs="tcp:117499:17"/>they bear witneſſe, and whom they ſet forth may be beleeved on, come to and received into the heart, he may be entertained into the fouls affection, deſire, delight, confidence, <hi>&amp;c.</hi> that ſo he that is Gods righteouſneſſe provided for us, and given unto us, being re<g ref="char:EOLhyphen"/>ceived and entertained, thou mai'ſt in him be preſented righteous to God, and filled with the <hi>fruits of righteouſneſſe</hi> both toward God and men, that ſo thou having of the ſpirit of Chriſt within thee, it may lead, teach, ſupport and comfort thee, and in the midſt of dan<g ref="char:EOLhyphen"/>gers, yea and of death it ſelf, fill thee with <hi>a lively hope of life and glory:</hi> Friends, do righteouſly in beleeving the word of God, and looking to Chriſt by faith, be not enemies to your ſelves by heeding <hi>lying vanites,</hi> put not away from you <hi>your own mercies,</hi> run not deſ<g ref="char:EOLhyphen"/>perately through a ſpirit of envy or malice, or through worldlineſſe, pride, preſumption, Atheiſme, looſeneſſe, into <hi>your own deſtruction.</hi> What good will you get to your ſelves in the iſſue by being wicked, by being envious againſt the Goſpel and grace of God, by quarrelling againſt and reſiſting the truth? by ſcorning, contemning, hating and reproaching them that out of love and good will preach and hold it forth to you, by rejecting the teſtimony of God, and cloſing with every vain phantaſie by which you think your ſelves ſtrengthened againſt it? whom do you fight againſt in oppoſing the word of God? is it not againſt God himſelf? and is it not againſt your own good? Do you not endeavour thereby to pervert your own waies? to make his grace and goodneſſe queſtionable as concerning your ſelves, and ſo put your ſelves from having the word of God the ground of your faith, to fetch the ground of it from ſome blinde conjectures and good conceits of your ſelves? Oh ſtand not in your own light, <hi>neg<g ref="char:EOLhyphen"/>lect not ſo great ſalvation</hi> as is ſet before you, nor reſt in ſuch a noti<g ref="char:EOLhyphen"/>on all profeſſion of truth as leaves the ſoul deſtitute of the power of truth, ſuch a conſent to it and profeſſion of it, as yet leaves the ſoul unrighteous, brings it not into Chriſt, nor receives not the power and <hi>Spirit of Chriſt</hi> into it. Let not love of the world and worldly vanities keep you out either from attending to and receiving truth, nor from ſubmitting to and walking out in the power of truth, per<g ref="char:EOLhyphen"/>haps you are rich (ſome of you) and injoy much in the world; you can fill and ſatiate your ſelves with the profits, advantages and delights of it, you finde a great deal of ſatisfaction in your own waies, ſome in coveteouſnes, others in pride, and others in voluptuouſnes, <hi>&amp;c.</hi> But oh! conſider the emptineſſe and vanity of all theſe ſatisfactions, will the world and the things thereof laſt for ever? is not God e<g ref="char:EOLhyphen"/>ven
+<pb n="25" facs="tcp:117499:17"/>now powring out whole vials of his wrath upon it? and is he not ſtaining the pride of all glory, and bringing to contempt all that's honourable in the earth? Is he not marring the form of it, and caſt<g ref="char:EOLhyphen"/>ing bitterneſſe into all the comforts of the earth? and what will your riches profit you, if God come to plead with you, with ſword, famine, and his ſore judgements? do you think to bribe his wrath, or make an agreement with hell and death? do you think that his hand will not finde you out? or do you think your riches, honours, pleaſures, accomodations in the world, will then fill your ſouls with hope? O no, beloved, theſe things will then prove more empty va<g ref="char:EOLhyphen"/>nties, you may live as richly and ſumptuouſly and in as great plea<g ref="char:EOLhyphen"/>ſure as the rich man in the Goſpel, <hi>Luk.</hi> 16. yea, and perhaps to have as honourable a buriall, and yet the next news may be (that that was his unhappy portion) that you are in hell tormented: what then will all theſe things you here ſet your hearts upon advantage you? what will it profit you, could you get and enjoy the whole world, and to loſe your ſouls in the getting it? die like ſtocks or blocks without God and without Chriſt, and without hope, or to die howling out with vexation and deſpair? Alas! what good would all his riches and places, or great funerall, <hi>&amp;c.</hi> have done this gentleman, if he had died without faith in God, and without the hope of his glory, and ſo before his body had been interred, his ſoul had been in hell. Be you willing to follow his ſteps in owning the truth of God, and the grace of God therein declared, and in ſo laying down your ſelves to the Croſſe of Chriſt, and cordially deſiring the knowledge and en<g ref="char:EOLhyphen"/>joyment of Chriſt, that ſo your end may be as hopefull as his, you may not be afraid of death and faint under it: but hope in it and re<g ref="char:EOLhyphen"/>joice over it, for the righteous man is he that hath hope in his death.</p>
+            <p n="3">3. To conclude, let me ſpeak one word to you that do follow after righteouſneſſe, even <hi>the righteouſneſſe of God,</hi> you that have received <hi>the record of God</hi> concerning his Son, beleeved his love, and there<g ref="char:EOLhyphen"/>through are brought to appreach unto him, to have good thoughts of him, and have caſt your ſouls upon him, and ſet your hope in him, what hath been ſaid may be uſefull unto you for your encourage<g ref="char:EOLhyphen"/>ment and conſolation, I ſhall ſay this to you, my brethren, hold faſt your integrity, follow on yet after righteouſneſſe,
+<note place="margin">Rev. 22.11.</note> 
+               <hi>be not weary of well doing, nor ſaint in the way, he that is righteous, let him be righteous ſtill, and be that is holy, let him be holy ſtill:</hi> let him continue and increaſe in holineſſe and righteouſneſſe, <hi>ſerving God in them all the daies of his life:</hi> abide in Chriſt and in his way, attending to the grace of God,
+<pb n="24" facs="tcp:117499:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:117499:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="26" facs="tcp:117499:19"/>and ſubmitting thereto to be acted and led thereby, <hi>to deny all ungod<g ref="char:EOLhyphen"/>lineſſe and worldly luſts,
+<note place="margin">Tit. 2.11, 12. Heb. 13.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 16</note> and to live ſoberly, righteouſly and godly in this preſent world: looking diligently that none fail of the grace of God, that none be prophane as</hi> Eſau <hi>to ſell the hope ſet before him, the birthright gi<g ref="char:EOLhyphen"/>ven you, for a meſſe of pottage,</hi> for any worldly, carnall, tranſitory va<g ref="char:EOLhyphen"/>nities, take heed of conſulting with fleſh and bloud, leſt you be <hi>turned aſide</hi> from the word of God to other doctrines, or <hi>to be corrupted</hi> to worldly waies and evils, take heed that the cares of this life, and the deceitfullneſſe of riches or love of other things in this world, do not by little and little ſteal in upon your ſpirits, <hi>to cheak the good ſeed of the word of God,</hi> and ſo to make you content your ſelves with a bar<g ref="char:EOLhyphen"/>ren profeſſion of Chriſt without power and fruitfullneſſe: <hi>Hold faſt your hope and confidence in Chriſt,</hi>
+               <note place="margin">Heb. 10.35.</note> and hold faſt your good converſati<g ref="char:EOLhyphen"/>on according to Chriſt, knowing that your confidence hath a <hi>great re<g ref="char:EOLhyphen"/>compenſe of reward,
+<note place="margin">1 Cor. 15<g ref="char:punc">▪</g> 18. Gal. 6, 7.</note> and your labour ſhall not be in vain in the Lord, in due time ye ſhall reap, if ye faint not:</hi> you have great encouragement in the conſideration of what hath been ſaid, to perſevere to the death, and not ſhrink back becauſe of perſecutions, reproaches, threatnings, or the fear of death: It is true indeed, you are expoſed to the wrath and malice of men, there are many eſpecially at this time, that conſpire and plot againſt us, we may ſee and hear how they band themſelves together, and ſtrengthen themſelves in miſchief, to root out from the earth, if it were poſſible, thoſe that fear God and deſire to walk with him, it is at ſuch their aim is moſt, and their envy and all their plots and deſigns are moſt againſt ſuch, perſecutions of the tongue you meet with, and ſhould do of the hand too if they might have their will, they thirſt after our bloud, and perhaps the ſight of this might almoſt ſtrike a damp into ſome ſpirits that have begun to look to God, and make them begin to think of going back again from him: but O my friends, let it not be ſo with you, you have no cauſe for all theſe things to be affrighted: for your lives are not in their hands that are your enemies, they may talk great things, this they will do, and that they will do, cut our throats, knock us on the head, be our deaths, but we ſee God permits them not to do ſo; they did ſo con<g ref="char:EOLhyphen"/>ſpire againſt <hi>David,</hi> but he comforted himſelf in this, <hi>my times are in thine hand,
+<note place="margin">Pſal. 31.11.</note> O Lord,</hi> and ſo may we till our times be come, they can do no hurt, as it is ſaid of Chriſt when they lay in wait for him, and ſought to kill him, they were many a time fruſtrated, and put by, be<g ref="char:EOLhyphen"/>cauſe <hi>his hour was not yet come:</hi> though they may have opportunities to harm us, yet God ties their hands, and ſtrikes a fear into their
+<pb n="27" facs="tcp:117499:19"/>hearts, <hi>not a hair of our heads ſhall they pluck from off us,</hi>
+               <note place="margin">Mat. 10 30.</note> till God give them permiſſion, Therefore fear not for the threats of men, nor for the wickedneſſe of thoſe, that in ſtead of receiving the grace of God preached by us, ſeek to reward our good will with miſchieving us,
+<note place="margin">Luk. 21.18.</note> plot to deſtroy us: in doing righteouſneſſe we have God on our ſides who will faithfully protect us, we have ſeen him many a time befool<g ref="char:EOLhyphen"/>ing them, and ſometimes taking them in their own ſnares, blowing them up when they had ſubtilly undermined us, and thought to have deſtroied us. How many times have they thought themſelves ſure of our downfall! when <hi>they themſelves have fallen, we have riſen and ſtood upright:</hi> though we have been ſo imperfect in righteous doing, that for our unbelief and follies God might moſt juſtly have given us up to their rage, yet ſuch hath been his goodneſſe and faithfullneſſe to us, that to break us off from our waies more, and to encourage us to righteouſneſſe, he hath known us in our adverſities, and evermore ſtood by us to defend us, and we have cauſe to hope in him yet, that whatſoever their hopes and expectations are, however great their power, and however ſubtle their policies, however ſtrong their con<g ref="char:EOLhyphen"/>federacies and combinations to do wickedneſſe, God will yet defeat them and preſerve us. Well, but ſuppoſe he ſhould leave us to their hands, as <hi>there may be an hour for the power of darkneſſe</hi> over us,
+<note place="margin">Luk. 22 53. Rev. 11 7, 8.</note> as well as there was to Chriſt, yet what of that? ſhall we turn from our righteouſneſſe? ſure there would be no cauſe for that, for what can they do unto us? <hi>They can but kill the body,</hi> and the body muſt die;
+<note place="margin">Eccleſ. 8.8.</note> And though for righteouſneſſe ſake it do not die ſo ſoon as probably it might: yet ſuch have all died who (to avoide death) have turned from righteouſnes; <hi>Neither ſhall wickednes deliver thoſe that are given to it.</hi> And truly, friends, to die in and for righteous doing, is far better then to die in denying it and without it: you ſee righteouſneſſe gives hope in death, and delivers from the ſting and poyſon that ſome meet with in it: Alas! if you turn from righteouſneſſe you turn from God, and from Chriſt, and from hope of eternall life:
+<note place="margin">Ezek. 33.12.</note> and what is then to be met with but guilt and horrour of conſcience, in death deſpair, and after death eternall vengeance? what advantage is it to live a little longer in this world, and in the mean time to have the ſoul dead to hope, and dead to God? Therefore hold faſt your righteouſneſſe, be not aſhamed of God and Chriſt, and of his name and truth, while you cleave to righteouſneſſe God will be ſure to cleave to you and ſupport you, ſo that death ſhall be but as a dream to you: the hope your ſouls meet with in and from God, ſhall render death little or
+<pb n="28" facs="tcp:117499:20"/>nothing fearfull or dreadfull to you, yea, in him your ſouls ſhall finde joy in death, God whom ye beleeve on and confeſſe, will be your God and guide unto death, and his grace embraced by you will fill you with joy and gladneſs, with peace and quietneſs in the midſt of death, you ſhall experiment with this our brother, and all the Saints of God that have abidden in faith, and held faſt their confidence, the truth of what you have now heard, <hi>that the righteous hath hope in his death:</hi> For that hopes ſake, go on couragiouſly in the path of righteouſneſſe, and fear not what perſecutions and death can do unto you; Conſider what hath been ſaid, and the Lord give us all underſtanding in all things.</p>
+            <closer>Laus Deo.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
